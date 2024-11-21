@@ -1,1 +1,1 @@
-# Hemangi_amazon-clone
+# Hemangi_ Amazon Product Listing Page (PLP)
